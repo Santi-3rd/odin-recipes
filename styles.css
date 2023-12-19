@@ -4,3 +4,12 @@ html {
     
 
 }
+
+h1 {
+    text-align: center;
+}
+
+div img{
+    width: 300px;
+    height: 250px;
+}
